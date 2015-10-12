@@ -1,0 +1,15 @@
+最大高斯成分数(N_GAUSS):10
+背景建模的高斯成分数(N_GAUSS_BG):3
+前景建模的高斯成分数(N_GAUSS_FG):3
+第二次前景建模选点时缩进的长度(FG_DIS_WIDTH):10   
+背景建模点的宽度(BG_GMM_WIDTH):5  
+第一次前景建模选点时缩进的长度(FG_GMM_WIDTH):10 
+结果显示选项(FUNCTION_DISPLAY):4
+背景模型的先验概率(PRO_BG):0.2   
+前景模型的先验概率(PRO_FG):0.8
+第二次前景建模点占矩形框的比例(FG_RATE):0.4  
+边权重值放大的倍数(PRO_RATE):10  
+前景汇点占矩形框的比例(FG_SEED_RATE):0.20
+GMM建模后方差的最小值(MIN_VAR):0.025
+后验概率的最小值(MIN_VALUE):1e-300 
+边权重值的最小值(MIN_GRAY):1e-20
